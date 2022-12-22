@@ -93,6 +93,7 @@ class GithubPopularReps extends Component {
         alt="failure view"
         className="failure-image"
       />
+      <p className="failure-text">Something Went Wrong</p>
     </div>
   )
 
